@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "ai-attendance",
+    "slug": "ai-attendance",
+    "platforms": ["ios", "android", "web"]
+  }
+}
